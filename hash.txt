@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+I am so awesome~
+=======
+He is so handsome
+>>>>>>> origin/main
